@@ -241,4 +241,4 @@ This repository serves as the official landing page for Iron. The software is di
 **Get the most recent version of Iron today!**
 
 ---
-**Last updated:** 2026-09-14 08:20:36 UTC
+**Last updated:** 2026-09-14 15:28:36 UTC
